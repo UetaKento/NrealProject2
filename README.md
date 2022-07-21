@@ -8,7 +8,7 @@
 - IronMan.unity<br>
 [![](https://img.youtube.com/vi/qLHPfLFmBms/0.jpg)](https://www.youtube.com/watch?v=qLHPfLFmBms)
   - Important scripts
-    - IronManHand_R(IronManHand_L).cs
-    - DestroyEnemy.cs
+    - [IronManHand_R(IronManHand_L).cs](https://github.com/UetaKento/diary/blob/main/2022/0721/Memo.md#ironmanhand_rcs)
+    - [DestroyEnemy.cs](https://github.com/UetaKento/diary/blob/main/2022/0721/Memo.md#destroyenemycs)
   
 
