@@ -5,7 +5,8 @@
     - [Control_obj_0202l.cs](https://github.com/UetaKento/diary/blob/main/2022/0721/Memo.md#control_obj_0202lcs)
     - [Attach_obj_0202.cs](https://github.com/UetaKento/diary/blob/main/2022/0721/Memo.md#attach_obj_0202cs)
   
-- IronMan.unity
+- IronMan.unity<br>
+[![](https://img.youtube.com/vi/qLHPfLFmBms/0.jpg)](https://www.youtube.com/watch?v=qLHPfLFmBms)
   - Important scripts
     - IronManHand_R(IronManHand_L).cs
     - DestroyEnemy.cs
